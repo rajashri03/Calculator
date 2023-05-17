@@ -12,6 +12,12 @@ namespace Calculator
             //Addition
             result = a + b;
             Console.WriteLine(result);
+
+
+            //Substraction
+            result = a - b;
+            Console.WriteLine(result);
+
         }
     }
 }
